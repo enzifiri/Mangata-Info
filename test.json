@@ -1,0 +1,11 @@
+{
+  "name": "Test #1",
+  "description": "This is an example token",
+  "image": "https://static.wikia.nocookie.net/computervision/images/4/47/PNG_transparency_demonstration_1.png",
+  "attributes": [
+    {
+      "trait_type": "Coolness",
+      "value": "Very Cool"
+    }
+  ]
+}
